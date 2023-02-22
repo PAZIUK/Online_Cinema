@@ -1,10 +1,10 @@
-# JulieMeo - Project Description <br>
+# Online_Cinema - Project Description <br>
 
 ### About <br/>
 
 The website was created by Serhiy Paziuk for his portfolio. <br/>
 
-### Website : https://paziuk.github.io/projects/sites/juliemeo/index.html  <br/>
+### Website : https://paziuk.github.io/Projects/Sites/Online_Cinema/index.html  <br/>
 
 ## For creating were used <br/>
 
