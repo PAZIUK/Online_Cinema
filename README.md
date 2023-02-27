@@ -4,7 +4,7 @@
 
 Welcome to our online cinema, where you can enjoy the latest movies and TV shows from the comfort of your home. Our platform offers a vast collection of titles, including new releases and classics, in various genres, from action and adventure to romance and comedy. With our user-friendly interface, you can easily search, stream, and watch your favorite titles on any device, anywhere and anytime. <br/>
 
-### Link to the website you can find [here](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#my-projects)<br/>
+### Link to the website you can find [here](https://github.com/PAZIUK#-websites)<br/>
 
 ## For creating were used <br/>
 
